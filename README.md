@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**DevanshAgarwal7/DevanshAgarwal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 💬 Ask me about **Angular, React.js, Spring Boot, Docker.**
@@ -38,5 +24,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshagarwal7&show_icons=true&locale=en" alt="devanshagarwal7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshagarwal7&" alt="devanshagarwal7" /></p>
-
--->
