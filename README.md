@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 💬 Ask me about **Angular, React.js, Spring Boot, Docker.**
+- 💬 Ask me about **Angular, React.js, Spring Boot, Liferay DXP, Docker.**
 
 - 📫 How to reach me **devaagarwal914@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uzgIV5M9RN-rhZDSaAF37ZbcUrraIB7g/view?usp=sharing](https://drive.google.com/file/d/1uzgIV5M9RN-rhZDSaAF37ZbcUrraIB7g/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AHw_La5es_DrzLuO0Xvg0oQTy_3vnt5b?usp=sharing]
 
 - ⚡ Fun fact **As a motivated and enthusiastic developer specializing in software development, I want to contribute my skills and knowledge to drive impactful solutions with a strong foundation in Frontend and Backend Development and its concepts. I am eager to learn and stay up-to-date with the various technologies in Full Stack Development.**
 
