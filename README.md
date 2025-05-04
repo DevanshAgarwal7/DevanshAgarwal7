@@ -7,12 +7,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1AHw_La5es_DrzLuO0Xvg0oQTy_3vnt5b?usp=sharing]
 
-- ⚡ Fun fact **As a motivated and enthusiastic developer specializing in software development, I want to contribute my skills and knowledge to drive impactful solutions with a strong foundation in Frontend and Backend Development and its concepts. I am eager to learn and stay up-to-date with the various technologies in Full Stack Development.**
+- ⚡ Fun fact **As a motivated and enthusiastic developer specialising in software development, I want to contribute my skills and knowledge to drive impactful solutions with a strong foundation in Frontend and Backend Development and its concepts. I am eager to learn and stay up-to-date with the various technologies in Full Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh--agarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh--agarwal/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/devansh--agarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devansh--agarwal/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/devansh--agarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devansh--agarwal/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/devaagarwal914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/devaagarwal914" height="30" width="40" /></a>
 </p>
 
